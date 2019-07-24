@@ -1,0 +1,38 @@
+body {
+  background-image: url(http://memberfiles.freewebs.com/62/26/48132662/photos/DarkSaruls-Photos/matrix-red.gif);
+}
+
+.p {
+  color : coral;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 15px;
+}
+
+#title {
+  font-family: "Arial Black", Gadget, sans-serif;
+  background-color : black;
+  color : coral;
+  padding : 20px;
+  text-align : center;
+}
+
+#h1 {
+  background-color : black;
+  color : coral;
+  padding : 10px;
+  text-align : left;
+}
+
+#h2 {
+  background-color : black;
+  color : coral;
+  padding : 10px;
+  text-align : left;
+}
+
+#h3 {
+  background-color : black;
+  color : coral;
+  padding : 10px;
+  text-align : left;
+}
